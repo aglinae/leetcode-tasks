@@ -1,7 +1,3 @@
-/**
- * @param {Function} fn
- * @return {Function}
- */
 var once = function (fn) {
   let funcOnce = false;
 
